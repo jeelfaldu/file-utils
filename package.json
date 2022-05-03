@@ -1,0 +1,26 @@
+{
+  "name": "utils-file",
+  "version": "1.0.0",
+  "description": "selected file or get file from url convert file to base64, file to blob, blob to base64, base64 to file format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "file",
+    "to",
+    "base64",
+    "file",
+    "to",
+    "blob",
+    "blob",
+    "to",
+    "base64",
+    "base64",
+    "to",
+    "file"
+  ],
+  "author": "jeel faldu",
+  "license": "ISC"
+}
