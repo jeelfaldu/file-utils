@@ -1,6 +1,6 @@
 {
   "name": "utils-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "selected file or get file from url convert file to base64, file to blob, blob to base64, base64 to file format",
   "main": "index.js",
   "scripts": {
